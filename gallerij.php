@@ -7,10 +7,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Woodywork</title>
+        <title>gallerij</title>
     </head>
     <body>
-        <p>dit is home</p>
+        <p>dit is de gallerij</p>
         <?php 
         include_once('menu.php');
         ?>
